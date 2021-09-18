@@ -1,5 +1,7 @@
 # A Command-Line-Only video game in c++
 * You are a chiken running around a field evading rocks
+# License
+* Please read the license file. It is uploaded to github for showcase and educational purposes
 # Architecture 
 * Object oriented
 * A carrot appears randomly that grants you 3 extra lives
