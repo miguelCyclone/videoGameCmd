@@ -4,6 +4,10 @@ You are a chicken running around a field, dodging rocks and spitting at them to 
 
 I made Pollo Mania between classes at university. It is a small C++ console game with characters drawn directly in the terminal, a score counter and increasingly crowded levels. The rocks get faster as your score grows, and later levels give your chicken double and triple shots.
 
+![Pollo Mania gameplay with the chicken on the left, rocks across the field and saliva shots travelling to the right](docs/images/pollo-mania-gameplay.png)
+
+*Gameplay preview rendered from the game's C++ console output.*
+
 ## Play
 
 Download or clone the repository and run the included `Juego11.exe` in Windows. Use a console window with at least 80 columns and 35 rows so the playing field fits.
